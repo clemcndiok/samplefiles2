@@ -1,2 +1,2 @@
 # samplefiles2
-example
+example of the created file from our local device
